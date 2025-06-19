@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 - 🔭 Atualmente estou trabalhando em BW7 Soluções Digitais | Desenvolvedor
 - 🌱 Estou aprendendo atualmente PHP
 - 💬 Pergunte-me sobre Inteligência Artifical e PHP
