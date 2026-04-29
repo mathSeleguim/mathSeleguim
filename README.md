@@ -51,4 +51,4 @@ I am a results-oriented developer focused on building resilient APIs, complex sy
 </div>
 
 
-![Snake animation](https://github.com/mathSeleguim/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mathSeleguim/mathSeleguim/blob/output/github-contribution-grid-snake.svg)
